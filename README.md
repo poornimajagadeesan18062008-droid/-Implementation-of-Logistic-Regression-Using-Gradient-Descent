@@ -93,9 +93,7 @@ Classification Report:
            1       1.00      0.98      0.99        52
 
     accuracy                           0.99       100
-    
    macro avg       0.99      0.99      0.99       100
-   
 weighted avg       0.99      0.99      0.99       100
 
 <img width="565" height="453" alt="download" src="https://github.com/user-attachments/assets/f2032b31-2dae-430a-bbe7-0c0e172bd6f1" />
